@@ -66,6 +66,6 @@ We use this categorical data encoding technique when the features are nominal(do
 
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+         To read the given data and perform Feature Encoding and Transformation process and save the data to a file was verified successfully.
 
        
